@@ -1,0 +1,2 @@
+# transmemo
+Memorize your glossary
