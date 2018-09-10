@@ -1,2 +1,2 @@
-# transmemo
+# tmm
 Memorize your glossary
